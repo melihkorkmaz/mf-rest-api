@@ -1,0 +1,83 @@
+{
+    "items" : [
+        {
+            "tax" : 0.70358, 
+            "unitPrice" : 11.08, 
+            "properties" : {
+                "Extra Blue Cheese" : "Checked", 
+                "Wing Sauce" : "Mild", 
+                "Pieces" : "12 Pieces ($10.49)"
+            }, 
+            "totalPrice" : 11.08, 
+            "group" : {
+                "_id" : "58bb3037350a80face698cdd", 
+                "name" : "Appetizers"
+            }, 
+            "quantity" : 1, 
+            "note" : "", 
+            "description" : "(Hot, Mild, BBQ) served with celery, carrots & bleu cheese dressing on side.", 
+            "name" : "Buffalo Wings", 
+            "_id" : "58bb32cd350a80face698ce1", 
+            "uniqueKey" : 1515849697064.0
+        }, 
+        {
+            "tax" : 1.082675, 
+            "unitPrice" : 17.05, 
+            "properties" : {
+                "No Onion" : "Checked", 
+                "Add Extra Dressing" : "Checked", 
+                "Add Extra" : {
+                    "Gorgonzola" : "Checked", 
+                    "Feta Cheese" : "Checked", 
+                    "Goat Cheese" : "Checked"
+                }, 
+                "Dressing Options" : "Bleu Cheese"
+            }, 
+            "totalPrice" : 17.05, 
+            "group" : {
+                "_id" : "58bb3068350a80face698cde", 
+                "name" : "Salads"
+            }, 
+            "quantity" : 1, 
+            "note" : "", 
+            "description" : "House salad loaded with bacon, cheddar, turkey, hard boiled egg, avocado with balsamic dressing.", 
+            "name" : "Milford Salad", 
+            "_id" : "58c64b78350a80face698d5c", 
+            "uniqueKey" : 1515849708393.0
+        }, 
+        {
+            "tax" : 1.4001750000000002, 
+            "unitPrice" : 22.05, 
+            "properties" : {
+                "Additional Topping for 2nd Half" : {
+                    "Sun-Dried Tomatoes" : "Checked", 
+                    "Zucchini" : "Checked", 
+                    "Shrimp" : "Checked"
+                }, 
+                "Additional Topping for 1st Half" : {
+                    "Bacon" : "Checked", 
+                    "Artichokes" : "Checked", 
+                    "Anchovies" : "Checked"
+                }, 
+                "Additional Topping for Whole Pizza" : {
+                    "Onion" : "Checked", 
+                    "Hot Oil" : "Checked", 
+                    "Green Peppers" : "Checked"
+                }, 
+                "Crust Options" : "Thick Crust", 
+                "Size" : "Medium 14\" ($9.49)"
+            }, 
+            "totalPrice" : 22.05, 
+            "group" : {
+                "_id" : "58c425b6350a80face698d3d", 
+                "name" : "Pizza"
+            }, 
+            "quantity" : 1, 
+            "note" : "", 
+            "description" : "Cheese Pizza base.", 
+            "name" : "Build Your Own Pizza", 
+            "_id" : "58ca9698350a80face698d83", 
+            "uniqueKey" : 1515849731167.0
+        }
+    ]
+}
